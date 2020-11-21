@@ -14912,7 +14912,7 @@ uJ:function(a){var s
 if(P.WZ(a,0,null).gBf())return P.Xi(C.le,a,C.b2,!1)
 s=this.gH1()
 if(s==null)s=""
-return P.Xi(C.le,s+("magiwanders.com-links/assets/"+H.b(a)),C.b2,!1)},
+return P.Xi(C.le,s+("assets/"+H.b(a)),C.b2,!1)},
 co:function(a,b){return this.Qe(a,b)},
 Qe:function(a,b){var s=0,r=P.ai(t.yp),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e
 var $async$co=P.ad(function(c,d){if(c===1){o=d
